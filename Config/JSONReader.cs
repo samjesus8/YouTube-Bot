@@ -28,4 +28,10 @@ namespace YouTubeBot.Config
             }
         }
     }
+
+    internal sealed class ConfigJSON
+    {
+        public string Token { get; set; }
+        public string Prefix { get; set; }
+    }
 }

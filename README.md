@@ -1,4 +1,4 @@
-# C# Discord Bot Template
+# YouTube Bot
 
 ![image](https://media.discordapp.net/attachments/1020110665161113610/1084826383907291167/READMETHUMB.jpg?width=1310&height=360)
 
