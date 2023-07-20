@@ -1,14 +1,14 @@
-﻿using DiscordBotTemplate.Commands;
-using DiscordBotTemplate.Config;
-using DSharpPlus;
+﻿using DSharpPlus;
 using DSharpPlus.CommandsNext;
 using DSharpPlus.EventArgs;
 using DSharpPlus.Interactivity;
 using DSharpPlus.Interactivity.Extensions;
 using System;
 using System.Threading.Tasks;
+using YouTubeBot.Commands;
+using YouTubeBot.Config;
 
-namespace DiscordBotTemplate
+namespace YouTubeBot
 {
     public sealed class Program
     {

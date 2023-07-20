@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace DiscordBotTemplate.Config
+namespace YouTubeBot.Config
 {
     internal struct ConfigJSON
     {

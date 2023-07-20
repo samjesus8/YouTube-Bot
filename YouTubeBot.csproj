@@ -160,7 +160,6 @@
   <ItemGroup>
     <None Include="App.config" />
     <None Include="Config\config.json" />
-    <None Include="docs\repository_setup.md" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup />

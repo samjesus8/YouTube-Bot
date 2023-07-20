@@ -3,7 +3,7 @@ using System.IO;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DiscordBotTemplate.Config
+namespace YouTubeBot.Config
 {
     internal class JSONReader
     {

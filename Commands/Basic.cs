@@ -2,7 +2,7 @@
 using DSharpPlus.CommandsNext.Attributes;
 using System.Threading.Tasks;
 
-namespace DiscordBotTemplate.Commands
+namespace YouTubeBot.Commands
 {
     public class Basic : BaseCommandModule
     {
