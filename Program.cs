@@ -68,7 +68,7 @@ namespace YouTubeBot
             await Client.ConnectAsync();
 
             //9. Start the YouTube notification service
-            await StartYouTubeNotifier(Client, 1017524740610592808);
+            await StartYouTubeNotifier(Client, 123456789); //INSERT VALID CHANNEL ID, OR IMPLEMENT A CHANNEL SYSTEM
 
             await Task.Delay(-1);
         }
